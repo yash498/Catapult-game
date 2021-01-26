@@ -1,1 +1,2 @@
-# Catapult-game
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
